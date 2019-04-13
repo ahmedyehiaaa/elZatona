@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="psychology_answers">
+        <item>علم النفس ؟؟</item>
+        <item>mark</item>
+        <item>ahmed</item>
+        <item>ali</item>
+        <item>menna</item>
+        <item>omnia</item>
+        <item>mahmoud</item>
+        <item>ebrahmin</item>
+    </string-array>
+</resources>

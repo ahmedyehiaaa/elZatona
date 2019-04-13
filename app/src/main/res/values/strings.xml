@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">elZatona</string>
+    <string name="chemistry">كيميــــاء</string>
+    <string name="physics">فيزيــــاء</string>
+    <string name="history">تاريـــــخ</string>
+    <string name="georaphryic">جغرافيـــا</string>
+    <string name="psychology">علم النفـس</string>
+    <string name="Rate_app">Rate Us</string>
+
+
+</resources>
